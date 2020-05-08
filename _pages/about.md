@@ -1,7 +1,7 @@
 ---
 permalink: /sobrenosotros/
 title: "Sobre nosotros"
-excerpt: "Test"
+layout: single
 ---
 
 Sobre nosotros
