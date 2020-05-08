@@ -33,8 +33,7 @@ feature_row:
     excerpt: "Nuestro día a día, con sus luces y sombras"
     url: "https://cientificaserbias.github.io/blog/categorias/#cronica-de-un-cientifico-encerrado"
     btn_class: "btn--primary"
-    btn_label: "Conocenos"
-    
+    btn_label: "Conocenos"   
 ---
 <ul class="social-icons">
   {% if site.data.ui-text[site.locale].follow_label %}
@@ -51,7 +50,7 @@ feature_row:
 </ul>
 
   
-  >“- La science, mon garçon, est faite d'erreurs, mais d'erreurs qu'il est bon de commettre, car elles mènent peu à peu à la vérité.”
+  “- La science, mon garçon, est faite d'erreurs, mais d'erreurs qu'il est bon de commettre, car elles mènent peu à peu à la vérité.”
   
   ¡Bienvenido al club de las científicas Erbias! Este club está formado un grupo de amigos que provenimos de distintas ramas científicas, con el objetivo común de transmitir nuestra pasión por la ciencia a todo tipo de público. Como no todo en ciencia reluce, además de compartir temas de interés científico, os contaremos cómo es la vida de un investigador y los retos y dificultades que conlleva. 
 
