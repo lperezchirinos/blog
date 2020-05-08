@@ -27,7 +27,7 @@ feature_row:
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-que-la-ciencia-se-llevo"
     btn_class: "btn--primary"
     btn_label: "Habla con los muertos"
-    - image_path: /assets/images/logo.png
+   - image_path: /assets/images/logo.png
     alt: "fully responsive"
     title: "Crónica de un científico encerrado"
     excerpt: "Nuestro día a día, con sus luces y sombras"
