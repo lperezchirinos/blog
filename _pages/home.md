@@ -1,8 +1,9 @@
 ---
 permalink: /
 title: "Home"
-layout: home
-author_profile: true
+layout: splash
+sidebar:
+  title: "Sample Title"
 ---
-
+Splas with sidebar
 Home
