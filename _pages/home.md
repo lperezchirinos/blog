@@ -20,5 +20,5 @@ layout: splash
 </ul>
 
 
-Splash with sidebar
+Splash with sidebar, prueba 2
 Home
