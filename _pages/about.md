@@ -2,7 +2,7 @@
 permalink: /sobrenosotros/
 title: "Sobre nosotros"
 layout: single
-author_profile=true
+author_profile: true
 ---
 
 Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no sólo entre tubos de laboratorio y pizarras llenas de fórmulas. 
