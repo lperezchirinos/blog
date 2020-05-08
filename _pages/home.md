@@ -24,14 +24,14 @@ feature_row:
     alt: "fully responsive"
     title: "Lo que la ciencia se llevó"
     excerpt: "Aquí hablamos de científicos muertos (o no)."
-    url: "https://cientificaserbias.github.io/blog/categorias/#lo-que-la-ciencia-se-llevo"
+    url: "https://cientificaserbias.github.io/blog/categorias/#lo-que-la-ciencia-se-llevó"
     btn_class: "btn--primary"
     btn_label: "Habla con los muertos"
   - image_path: /assets/images/logo.png
     alt: "fully responsive"
     title: "Crónica de un científico encerrado"
     excerpt: "Nuestro día a día, con sus luces y sombras"
-    url: "https://cientificaserbias.github.io/blog/categorias/#cronica-de-un-cientifico-encerrado"
+    url: "https://cientificaserbias.github.io/blog/categorias/#crónica-de-un-científico-encerrado"
     btn_class: "btn--primary"
     btn_label: "Conocenos"   
 ---
