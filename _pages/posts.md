@@ -1,5 +1,5 @@
 ---
-permalink: /sobrenosotros/
+permalink: /publicaciones/
 title: " Publicaciones"
 layout: posts
 ---
