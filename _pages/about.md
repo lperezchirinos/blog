@@ -4,8 +4,7 @@ title: "Sobre nosotros"
 layout: single
 author_profile: true
 ---
-&nbsp;  
-&nbsp;  
+&nbsp;    
 
 Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no sólo entre tubos de laboratorio y pizarras llenas de fórmulas. 
 
