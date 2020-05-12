@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : #""
+  name             : "lolo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Contacta con nosotros y siguenos en las redes"
-  location         : #""
-  #email            : cientificas.erbias@gmail.com
+  location         : "encualquiersitio"
+  email            : cientificas.erbias@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
