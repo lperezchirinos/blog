@@ -9,31 +9,31 @@ feature_row:
   - image_path: /assets/images/logo.png
     alt: "customizable"
     title: "Lo cotidiano es ciencia"
-    excerpt: "La ciencia que vemos en nuestras casas"
+    excerpt: "La ciencia que vemos en nuestras casas."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-cotidiano-es-ciencia"
     btn_class: "btn--primary"
-    btn_label: "entra"
+    btn_label: "Echa un vistazo"
   - image_path: /assets/images/logo.png
     alt: "fully responsive"
     title: "Viaje al centro de la ciencia"
-    excerpt: "Tralla de la buena"
+    excerpt: "Tralla de la buena."
     url: "https://cientificaserbias.github.io/blog/categorias/#viaje-al-centro-de-la-ciencia"
     btn_class: "btn--primary"
-    btn_label: "Rompete la cabeza"
+    btn_label: "Rómpete la cabeza"
   - image_path: /assets/images/logo.png
     alt: "fully responsive"
     title: "Lo que la ciencia se llevó"
     excerpt: "Aquí hablamos de científicos muertos (o no)."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-que-la-ciencia-se-llevó"
     btn_class: "btn--primary"
-    btn_label: "Habla con los muertos"
+    btn_label: "Habla con los (no) muertos"
   - image_path: /assets/images/logo.png
     alt: "fully responsive"
     title: "Crónica de un científico encerrado"
-    excerpt: "Nuestro día a día, con sus luces y sombras"
+    excerpt: "Nuestro día a día, con sus luces y sombras."
     url: "https://cientificaserbias.github.io/blog/categorias/#crónica-de-un-científico-encerrado"
     btn_class: "btn--primary"
-    btn_label: "Conocenos"   
+    btn_label: "Conócenos"   
 ---
 <ul class="social-icons">
   {% if site.data.ui-text[site.locale].follow_label %}
@@ -59,6 +59,6 @@ Y como la ciencia es colaborativa, estaremos siempre encantados de oir vuestras 
 
 {% include feature_row %}
 
-Créditos del logo a @Chir_ii
+Todas las imagenes bonitas son obra de [@Chir_ii](https://www.instagram.com/chir_ii/?hl=en), los demás hacemos lo que podemos.
 
 
