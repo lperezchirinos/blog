@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "El club de las científicas erbias"
+  name             : ""
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "?????"
-  location         : "????"
+  bio              : "Contacta con nosotros y siguenos en las redes"
+  location         : ""
   #email            : cientificas.erbias@gmail.com
   links:
     - label: "Email"
