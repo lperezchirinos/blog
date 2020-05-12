@@ -59,6 +59,6 @@ Y como la ciencia es colaborativa, estaremos siempre encantados de oir vuestras 
 
 {% include feature_row %}
 
-Todas las imagenes bonitas son obra de [@Chir_ii](https://www.instagram.com/chir_ii/?hl=en), los demás hacemos lo que podemos.
+Todas las imágenes bonitas son obra de [@Chir_ii](https://www.instagram.com/chir_ii/?hl=en), los demás hacemos lo que podemos.
 
 
