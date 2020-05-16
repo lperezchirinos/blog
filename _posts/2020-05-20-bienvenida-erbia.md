@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué la espuma de la cerveza de nuestro logo es rosa?"
 header:
-  image: {% raw %}/assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg{% endraw %}
+  image: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
   teaser: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
   og_image: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
 classes: wide
