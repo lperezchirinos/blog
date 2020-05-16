@@ -22,7 +22,7 @@ La galidonita, como se bautizó a este mineral, fue pasando de mano en mano hast
 
 <figure>
 	<a href="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-05-20-bienvenida-erbia/Er_OxEr.jpg"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/Er_OxEr.jpg"></a>
-	<figcaption><a title="Erbio y óxido de erbio."> Como se puede observar en la imagen de la izquierda el erbio tiene una apareciencia como la de otros metales que vemos en nuestro día a día. En la derecha encontramos erbia con su característico color rosa. </a> Como se puede observar en la imagen de la izquierda el erbio tiene una apareciencia como la de otros metales que vemos en nuestro día a día. En la derecha encontramos erbia con su característico color rosa..</figcaption>
+	<figcaption> Como se puede observar en la imagen de la izquierda el erbio tiene una apareciencia como la de otros metales que vemos en nuestro día a día. En la derecha encontramos erbia con su característico color rosa.</figcaption>
 </figure>
 
 Después de esta pequeña historia ya sabéis qué es el erbio y a qué se debe el sospechoso color rosa de la espuma en nuestro logo. Pero, ¿por qué científicas erbias? Solo os podemos decir que cualquier relación de la palabra erbia con la embriaguez es pura casualidad...
