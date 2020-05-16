@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
   og_image: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
 classes: wide
-published: true
+published: false
 comments: true
 author_profile: false
 --- 
