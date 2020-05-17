@@ -21,7 +21,7 @@ Nos encontramos a varios metros bajo la superficie de la tierra, la luz de una v
 La galidonita, como se bautizó a este mineral, fue pasando de mano en mano hasta que llegó a Estocolmo y a las manos de Carl Gustaf Mosander. Entorno al año 1843, Mosander fue capaz de separar de la galidonita una sustancia amarilla que llamó erbia y otra rosada a la que llamó terbia. Este trabajo fue corroborado por varios de sus colegas, pero por una confusión lo que fue bautizado como terbia pasó a llamarse erbia. ¿Te recuerda la erbia al nombre de nuestro blog? El principal mérito de nuestro protagonista fue que concluyó que estas dos sustancias eran óxidos de dos nuevos elementos químicos desconocidos hasta entonces, a los que hoy llamamos erbio y terbio. Si alguno está pensando en viajar a Suecia para ver cómo es la erbia, tenemos buenas noticias para vosotros, no hace falta que vayáis hasta allí. La erbia se usa en bisutería y porcelanas para dar color rosado y también la podéis encontrar en las gafas de protección de los soldadores.
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/Er_OxEr.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-05-20-bienvenida-erbia/Er_OxEr.jpg"/>
 	<figcaption> Como se puede observar en la imagen de la izquierda el erbio tiene una apareciencia como la de otros metales que vemos en nuestro día a día. En la derecha encontramos erbia con su característico color rosa.</figcaption>
 </figure>
 
@@ -38,9 +38,7 @@ Podéis encontrar más información en [Sobre nosotros](https://cientificaserbia
 <span style="font-size:1.25em">
 **Óxido**: compuesto químico formado por al menos un átomo de oxígeno y un átomo de otro elemento químico. Cuando observamos una pieza de hierro oxidada, estamos viendo un compuesto formado por dos átomos de hierro (Fe) y tres átomos de oxígeno (O). Esto se representa en química como Fe<sub>2</sub>O<sub>3</sub>. En el caso de la erbia tendremos Er<sub>2</sub>O<sub>3</sub>.
 </span>
-{: .notice--info}
-
-     
+{: .notice--info}    
 
 ---
 **Para saber más**
