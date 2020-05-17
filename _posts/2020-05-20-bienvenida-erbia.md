@@ -38,7 +38,7 @@ Podéis encontrar más información en [Sobre nosotros](https://cientificaserbia
 <span style="font-size:1.25em">
 **Óxido**: compuesto químico formado por al menos un átomo de oxígeno y un átomo de otro elemento químico. Cuando observamos una pieza de hierro oxidada, estamos viendo un compuesto formado por dos átomos de hierro (Fe) y tres átomos de oxígeno (O). Esto se representa en química como Fe<sub>2</sub>O<sub>3</sub>. En el caso de la erbia tendremos Er<sub>2</sub>O<sub>3</sub>.
 </span>
-{: .notice--info}    
+{: .notice--primary}    
 
 ---
 **Para saber más**
