@@ -63,15 +63,15 @@ feature_row:
 
 div.ex2 {
   width: 100%;
-  right-padding: 10em;
-  left-padding: 10em;
+  right-padding: 30em;
+  left-padding: 30em;
   box-sizing: border-box;
 }
 </style>
 </head>
 <body>
 
-<div class="ex2">&nbsp;&nbsp;¡Bienvenido al club de las científicas Erbias! Este club está formado un grupo de amigos que provenimos de distintas ramas científicas, con el objetivo común de transmitir nuestra pasión por la ciencia a todo tipo de público. Como no todo en ciencia reluce, además de compartir temas de interés científico, os contaremos cómo es la vida de un investigador y los retos y dificultades que conlleva.<br>
+<div class="ex2">&nbsp;&nbsp;PRUEBA¡Bienvenido al club de las científicas Erbias! Este club está formado un grupo de amigos que provenimos de distintas ramas científicas, con el objetivo común de transmitir nuestra pasión por la ciencia a todo tipo de público. Como no todo en ciencia reluce, además de compartir temas de interés científico, os contaremos cómo es la vida de un investigador y los retos y dificultades que conlleva.<br>
 &nbsp;
 &nbsp;&nbsp;Y como la ciencia es colaborativa, estaremos siempre encantados de oir vuestras opiniones. ¡No dudéis en sugerirnos temas que sean de vuestro interés! Y si además tú también eres científico y quieres unirte a nosotros o hacernos sugerencias sobre cómo mejorar alguna de nuestras entradas, toda idea será más que bienvenida. ¡Nosotros también queremos aprender!
 </div>
@@ -81,8 +81,8 @@ div.ex2 {
 &nbsp;
 {% include feature_row %}
 
-<body>
+
 Todas las imágenes bonitas son obra de [@Chir_ii](https://www.instagram.com/chir_ii/?hl=en), los demás hacemos lo que podemos.
-</body>
+
 
 
