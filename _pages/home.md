@@ -63,8 +63,8 @@ feature_row:
 
 div.ex2 {
   width: 100%;
-  right-padding: 30%;
-  left-padding: 30%
+  right-padding: 10em;
+  left-padding: 10em;
   box-sizing: border-box;
 }
 </style>
@@ -81,6 +81,8 @@ div.ex2 {
 &nbsp;
 {% include feature_row %}
 
+<body>
 Todas las imágenes bonitas son obra de [@Chir_ii](https://www.instagram.com/chir_ii/?hl=en), los demás hacemos lo que podemos.
+</body>
 
 
