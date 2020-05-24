@@ -78,6 +78,6 @@ div.ex2 {
 {% include feature_row %}
 
 
-Todas las imágenes bonitas son obra de <a href="https://www.instagram.com/chir_ii/?hl=en" target="_blank">@Chir_ii</a>
+Todas las imágenes bonitas son obra de <a href="https://www.instagram.com/chir_ii/?hl=en" target="_blank">@Chir_ii</a>, los demás hacemos lo que podemos.
 
 
