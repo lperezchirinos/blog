@@ -54,15 +54,13 @@ feature_row:
    <div style="text-align: right;color:#668c99; font-size:0.9em;">"La ciencia, hijo mío, está llena de errores; pero de errores que conviene conocer, porque conducen poco a poco a la verdad."<br>
  <i>Viaje al centro de la tierra</i>, Jules Vernes.</div>
   
-&nbsp;  
-&nbsp;  
 &nbsp;
 <html>
 <head>
 <style>
 
 div.ex2 {
-  width: 60%;
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -81,7 +79,6 @@ div.ex2 {
 {% include feature_row %}
 
 
-Todas las imágenes bonitas son obra de [@Chir_ii](https://www.instagram.com/chir_ii/?hl=en), los demás hacemos lo que podemos.
-
+Todas las imágenes bonitas son obra de <a href="https://www.instagram.com/chir_ii/?hl=en">@Chir_ii</a>
 
 
