@@ -27,6 +27,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 
 /* Create two equal columns that floats next to each other */
 .column {
+  float: left;
   width: 50%;
   padding: 15px;
 }
