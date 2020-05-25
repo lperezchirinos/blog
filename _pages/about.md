@@ -55,21 +55,21 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Laura Pérez-Chirinos</h3>
-    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/laura1200x1600.jpg?raw=true" class="center"><br>¿La mejor manera de evadir mi mente? El piano, la pintura y la cerveza. Amante de los viernes por la noche y de retos nuevos. Debería parar algún minuto quieta, pero eso ya me lo plantearé en otra vida.<br>Graduada en Biotecnología y apasionada de los modelos matemáticos que describen la biología. En un intento de fusionar la investigación computacional con la experimental.<br><b>#ColdBeerDynamics</b></p>
+    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/laura1600x1200.jpg?raw=true" class="center"><br>¿La mejor manera de evadir mi mente? El piano, la pintura y la cerveza. Amante de los viernes por la noche y de retos nuevos. Debería parar algún minuto quieta, pero eso ya me lo plantearé en otra vida.<br>Graduada en Biotecnología y apasionada de los modelos matemáticos que describen la biología. En un intento de fusionar la investigación computacional con la experimental.<br><b>#ColdBeerDynamics</b></p>
   </div>
    <div class="column" style="background-color:#FFFFFF;">
       <h3>Judit Sastre Pozo</h3>
-      <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/judit1200x1600.jpg?raw=true" class="center"><br>Historias trepidantes, ciencia a mogollón y cacharros alucinantes. De pequeña quería ser escritora de ciencia ficción… al final estudié Química. Sin embargo, no renuncié a los cacharros chulos, por eso hice un máster en Biofísica. Ni a las buenas historias… y aquí estamos.<br><i>¿Qué es la vida?</i> (Erwin Schrödinger) versus <i>La última pregunta</i> (Isaac Asimov)<br><b>#SciFiVsSciFacts</b></p>
+      <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/judit1600x1200.jpg?raw=true" class="center"><br>Historias trepidantes, ciencia a mogollón y cacharros alucinantes. De pequeña quería ser escritora de ciencia ficción… al final estudié Química. Sin embargo, no renuncié a los cacharros chulos, por eso hice un máster en Biofísica. Ni a las buenas historias… y aquí estamos.<br><i>¿Qué es la vida?</i> (Erwin Schrödinger) versus <i>La última pregunta</i> (Isaac Asimov)<br><b>#SciFiVsSciFacts</b></p>
    </div>
 </div>
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Adrián Candelas Baonza</h3>
-    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/adri1200x1600.jpg?raw=true" class="center"><br>Mis noches las alterno entre el laboratorio y mi vida social. Las mañanas son para descansar de toda la vida. Biólogo por la Univ. Autónoma de Madrid, máster en investigación multidisciplinar por la Univ. Pompeu Fabra y actualmente realizando un doctorado (PhD) en Terapia Celular por la Universidad de la Sorbonna (CytomorphoLab). Soy el raro del grupo, el que prefiere un vino a una cerveza.<b><br>#TeamWine</b></p>
+    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/adri1600x1200.jpg?raw=true" class="center"><br>Mis noches las alterno entre el laboratorio y mi vida social. Las mañanas son para descansar de toda la vida. Biólogo por la Univ. Autónoma de Madrid, máster en investigación multidisciplinar por la Univ. Pompeu Fabra y actualmente realizando un doctorado (PhD) en Terapia Celular por la Universidad de la Sorbonna (CytomorphoLab). Soy el raro del grupo, el que prefiere un vino a una cerveza.<b><br>#TeamWine</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Daniel Garrido López</h3>
-    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/Dani1600x1200_2.jpg?raw=true" class="center"><br>Gasto todo mi dinero en viajes. Me gusta la naturaleza, el cine y la cerveza fría. Graduado en Biología y estudiando Ciencias Medioambientales a saltos por Europa. De pequeño mi sueño era poder grabar documentales y ahora que he madurado (pero poco), sueño con un planeta donde queramos y podamos preservar la naturaleza (y que otros lo graben, todo sea dicho).<b><br>#Cervezólogo</b></p>
+    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/Dani1600x1200.jpg?raw=true" class="center"><br>Gasto todo mi dinero en viajes. Me gusta la naturaleza, el cine y la cerveza fría. Graduado en Biología y estudiando Ciencias Medioambientales a saltos por Europa. De pequeño mi sueño era poder grabar documentales y ahora que he madurado (pero poco), sueño con un planeta donde queramos y podamos preservar la naturaleza (y que otros lo graben, todo sea dicho).<b><br>#Cervezólogo</b></p>
   </div>
 </div>
 
