@@ -6,7 +6,7 @@ author_profile: true
 ---
 &nbsp;    
 
-Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no sólo entre tubos de ensayo y pizarras llenas de fórmulas.
+Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no solo entre tubos de ensayo y pizarras llenas de fórmulas.
 
 ¿Quiénes somos?
 <html>
