@@ -126,7 +126,7 @@ footer:
       url: "https://twitter.com/CientificasEr"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url:"https://www.facebook.com/El-Club-de-las-Cient%C3%ADficas-Erbias-113514427041934/"
+      url: "https://www.facebook.com/El-Club-de-las-Cient%C3%ADficas-Erbias-113514427041934/"
     #- label: "GitHub"
      # icon: "fab fa-fw fa-github"
       # url:
