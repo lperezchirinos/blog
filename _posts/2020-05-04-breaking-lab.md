@@ -1,7 +1,7 @@
 ---
 title: "Breaking Lab"
 header:
-  image: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
+  image: /assets/images/Cover.jpg
 categories:
   - Breaking Lab
 published: true
