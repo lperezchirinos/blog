@@ -6,35 +6,35 @@ header:
   image: /assets/images/Cover.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
 feature_row:
-  - image_path: /assets/images/homepage/locotidianoesciencia.png
+  - image_path: /assets/images/homepage/locotidianoesciencia.jpg
     alt: "Lo cotidiano es ciencia"
     title: "Lo cotidiano es ciencia"
     excerpt: "La ciencia que vemos en nuestras casas."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-cotidiano-es-ciencia"
     btn_class: "btn--primary"
     btn_label: "Echa un vistazo"
-  - image_path: /assets/images/homepage/viajealcentrodelaciencia.png
+  - image_path: /assets/images/homepage/viajealcentrodelaciencia.jpg
     alt: "Viaje al centro de la ciencia"
     title: "Viaje al centro de la ciencia"
     excerpt: "Tralla de la buena."
     url: "https://cientificaserbias.github.io/blog/categorias/#viaje-al-centro-de-la-ciencia"
     btn_class: "btn--primary"
     btn_label: "Rómpete la cabeza"
-  - image_path: /assets/images/homepage/loquelacienciasellevo.png
+  - image_path: /assets/images/homepage/loquelacienciasellevo.jpg
     alt: "Lo que la ciencia se llevó"
     title: "Lo que la ciencia se llevó"
     excerpt: "Aquí hablamos de científicos muertos (o no)."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-que-la-ciencia-se-llevó"
     btn_class: "btn--primary"
     btn_label: "Habla con los (no) muertos"
-  - image_path: /assets/images/homepage/cronicasdeuncientificoencerrado.png
+  - image_path: /assets/images/homepage/cronicasdeuncientificoencerrado.jpg
     alt: "Crónica de un científico encerrado"
     title: "Crónica de un científico encerrado"
     excerpt: "Nuestro día a día, con sus luces y sombras."
     url: "https://cientificaserbias.github.io/blog/categorias/#crónica-de-un-científico-encerrado"
     btn_class: "btn--primary"
     btn_label: "Conócenos"  
-  - image_path: /assets/images/homepage/frikadas.png
+  - image_path: /assets/images/homepage/frikadas.jpg
     alt: "Breaking Lab"
     title: "Breaking Lab"
     excerpt: "Nuestro particular cajón de sastre."
