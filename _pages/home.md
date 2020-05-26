@@ -33,14 +33,7 @@ feature_row:
     excerpt: "Nuestro día a día, con sus luces y sombras."
     url: "https://cientificaserbias.github.io/blog/categorias/#crónica-de-un-científico-encerrado"
     btn_class: "btn--primary"
-    btn_label: "Conócenos"   
-     - image_path: /assets/images/section_cronicas.png
-    alt: "fully responsive"
-    title: "Frikadas"
-    excerpt: "Cajón desastre."
-    url: "https://cientificaserbias.github.io/blog/categorias/#crónica-de-un-científico-encerrado"
-    btn_class: "btn--primary"
-    btn_label: "Adentrate"   
+    btn_label: "Conócenos"     
 ---
 <ul class="social-icons">
   {% if site.data.ui-text[site.locale].follow_label %}
