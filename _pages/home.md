@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/Cover.jpg
+  overlay_image: /assets/images/header_1024x294.jpg
 feature_row:
   - image_path: /assets/images/section_cronicas.png
     alt: "customizable"
