@@ -4,6 +4,7 @@ permalink: /
 hidden: true
 header:
   image: /assets/images/Cover.jpg
+  caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
 feature_row:
   - image_path: /assets/images/homepage/locotidianoesciencia.png
     alt: "Lo cotidiano es ciencia"
@@ -82,7 +83,7 @@ div.ex2 {
   
 &nbsp;
 
-{% include feature_row type="center" %}
+{% include feature_row %}
 
 
 Todas las imágenes bonitas son obra de <a href="https://www.instagram.com/chir_ii/?hl=en" target="_blank">@Chir_ii</a>, los demás hacemos lo que podemos.
