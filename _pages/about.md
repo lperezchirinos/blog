@@ -65,7 +65,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Adrián Candelas Baonza</h3>
-    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/adri1600x1200.jpg?raw=true" class="center"><br>Mis noches las alterno entre el laboratorio y mi vida social. Las mañanas son para descansar de toda la vida. Biólogo por la Univ. Autónoma de Madrid, máster en investigación multidisciplinar por la Univ. Pompeu Fabra y actualmente realizando un doctorado (PhD) en Terapia Celular por la Universidad de la Sorbonna (CytomorphoLab). Soy el raro del grupo, el que prefiere un vino a una cerveza.<b><br>#TeamWine</b></p>
+    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/adri1600x1200.jpg?raw=true" class="center"><br>Mis noches las alterno entre el laboratorio y mi vida social. Las mañanas son para descansar, de toda la vida. Apasionado por la ciencia, el arte y la literatura y por la búsqueda de vínculos entre ellas. Biólogo (UAM) especializado en Biología Celular y actualmente realizando un doctorado en celulas madre hematopoyéticas. Soy el raro del grupo, el que prefiere un vino a una cerveza <b><br>#WineLover</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Daniel Garrido López</h3>
