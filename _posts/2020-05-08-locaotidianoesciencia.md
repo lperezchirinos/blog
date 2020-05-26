@@ -2,6 +2,7 @@
 title: "Lo cotidiano es ciencia"
 header:
   image: /assets/images/Cover.jpg
+  caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
 published: true
 comments: true
 author_profile: true
