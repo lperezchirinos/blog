@@ -38,7 +38,7 @@ feature_row:
     alt: "Breaking Lab"
     title: "Breaking Lab"
     excerpt: "Nuestro particular cajón de sastre."
-    url: ""
+    url: "https://cientificaserbias.github.io/blog/categorias/#breaking-lab"
     btn_class: "btn--primary"
     btn_label: "Únete al lado oscuro de la ciencia"  
 ---
