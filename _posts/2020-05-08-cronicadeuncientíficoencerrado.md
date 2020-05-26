@@ -1,12 +1,14 @@
 ---
-title: "Post ejemplo: Crónica de un cientifico encerrado"
-categories:
-  - Crónica de un cientifico encerrado
-tags:
-  - Virus
-published: True
+title: "Crónica de un científico encerrado"
 header:
-  og_image: https://upload.wikimedia.org/wikipedia/commons/c/cc/Erbium.jpg
-  teaser: https://upload.wikimedia.org/wikipedia/commons/0/0f/Erbium%28III%29chloride_sunlight.jpg
+  image: /assets/images/Cover.jpg
+published: true
+comments: true
+author_profile: true
+categories:
+  - Crónica de un científico encerrado
 ---
-Ejemplo
+
+En un viaje al interior de la investigación, en esta sección describiremos las investigaciones que estamos llevando a cabo los distintos miembros del Club de las Cientifícas Erbias. Con ella pretendemos mostrar de forma cercana qué hacemos y cómo es nuestra forma de trabajar, con sus ventajas y dificultades. 
+
+Disfrutad de este viaje en primera persona a través de nuestra visión personal y diaria en las distintas disciplinas donde estamos especializados y en los distintos lugares donde vivimos. ¡Esperemos que lo disfrutéis tanto como nosotros! 
