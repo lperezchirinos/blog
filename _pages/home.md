@@ -4,36 +4,43 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
+  overlay_image: /assets/images/Cover.jpg
 feature_row:
   - image_path: /assets/images/section_cronicas.png
-    alt: "customizable"
+    alt: "Lo cotidiano es ciencia"
     title: "Lo cotidiano es ciencia"
     excerpt: "La ciencia que vemos en nuestras casas."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-cotidiano-es-ciencia"
     btn_class: "btn--primary"
     btn_label: "Echa un vistazo"
   - image_path: /assets/images/section_cronicas.png
-    alt: "fully responsive"
+    alt: "Viaje al centro de la ciencia"
     title: "Viaje al centro de la ciencia"
     excerpt: "Tralla de la buena."
     url: "https://cientificaserbias.github.io/blog/categorias/#viaje-al-centro-de-la-ciencia"
     btn_class: "btn--primary"
     btn_label: "Rómpete la cabeza"
   - image_path: /assets/images/section_cronicas.png
-    alt: "fully responsive"
+    alt: "Lo que la ciencia se llevó"
     title: "Lo que la ciencia se llevó"
     excerpt: "Aquí hablamos de científicos muertos (o no)."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-que-la-ciencia-se-llevó"
     btn_class: "btn--primary"
     btn_label: "Habla con los (no) muertos"
   - image_path: /assets/images/section_cronicas.png
-    alt: "fully responsive"
+    alt: "Crónica de un científico encerrado"
     title: "Crónica de un científico encerrado"
     excerpt: "Nuestro día a día, con sus luces y sombras."
     url: "https://cientificaserbias.github.io/blog/categorias/#crónica-de-un-científico-encerrado"
     btn_class: "btn--primary"
-    btn_label: "Conócenos"     
+    btn_label: "Conócenos"  
+  - image_path: /assets/images/section_cronicas.png
+    alt: "Breaking Lab"
+    title: "Breaking Lab"
+    excerpt: "Nuestro particular cajón de sastre."
+    url: ""
+    btn_class: "btn--primary"
+    btn_label: "Únete al lado oscuro de la ciencia"  
 ---
 <ul class="social-icons">
   {% if site.data.ui-text[site.locale].follow_label %}
