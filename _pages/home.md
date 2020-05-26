@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header_1024x294.jpg
 feature_row:
-  - image_path: /assets/images/section_cronicas.png
+  - image_path: /assets/images/Crónicas%20de%20un%20cientifico%20encerrado_300x300.jpg
     alt: "customizable"
     title: "Lo cotidiano es ciencia"
     excerpt: "La ciencia que vemos en nuestras casas."
