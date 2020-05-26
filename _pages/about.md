@@ -6,7 +6,7 @@ author_profile: true
 ---
 &nbsp;    
 
-Hemos reunido aquí a distintas disciplinas científicas para demostrar que la Ciencia está en todas partes, y no solo entre tubos de ensayo y pizarras llenas de fórmulas.
+Hemos reunido aquí a distintas disciplinas científicas para demostrar que la ciencia está en todas partes, y no solo entre tubos de ensayo y pizarras llenas de fórmulas.
 
 ¿Quiénes somos?
 <html>
@@ -45,7 +45,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
      <h3>Inés Martínez Martín</h3>
-    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/ines1600x1200.jpg?raw=true" class="center"><br>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos.<br> <b>#BeerLover</b></p>
+    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/ines1600x1200.jpg?raw=true" class="center"><br>Enamorada de la ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos.<br> <b>#BeerLover</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Jaime Sáez Mollejo</h3>
