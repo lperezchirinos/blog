@@ -3,8 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/Cover.jpg
+  image: /assets/images/Cover.jpg
 feature_row:
   - image_path: /assets/images/homepage/locotidianoesciencia.png
     alt: "Lo cotidiano es ciencia"
