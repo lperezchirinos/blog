@@ -48,7 +48,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la C
     <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/ines1600x1200.jpg?raw=true" class="center"><br>Enamorada de la Ciencia, los viajes y los buenos bares (y de cualquier combinación de ellos). Graduada en Bioquímica, máster en Biofísica y eterna aprendiz de las bases físicas que dirigen los procesos biológicos.<br> <b>#BeerLover</b></p>
   </div>
   <div class="column" style="background-color:#FFFFFF;">
-    <h3>Jaime Sáez-Mollejo</h3>
+    <h3>Jaime Sáez Mollejo</h3>
     <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/jaime1600x1200.jpg?raw=true" class="center"><br>Amante de la montaña, la naturaleza y de vez en cuando intento aprender a tocar el piano. Soy graduado en Física y estoy dando   mis primeros pasos para entender el comportamiento de los electrones.<br><b>#HikingLover</b></p>
   </div>
 </div>
