@@ -6,28 +6,28 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/Cover.jpg
 feature_row:
-  - image_path: /assets/images/logo.png
+  - image_path: /assets/images/section_cronicas.png
     alt: "customizable"
     title: "Lo cotidiano es ciencia"
     excerpt: "La ciencia que vemos en nuestras casas."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-cotidiano-es-ciencia"
     btn_class: "btn--primary"
     btn_label: "Echa un vistazo"
-  - image_path: /assets/images/logo.png
+  - image_path: /assets/images/section_cronicas.png
     alt: "fully responsive"
     title: "Viaje al centro de la ciencia"
     excerpt: "Tralla de la buena."
     url: "https://cientificaserbias.github.io/blog/categorias/#viaje-al-centro-de-la-ciencia"
     btn_class: "btn--primary"
     btn_label: "Rómpete la cabeza"
-  - image_path: /assets/images/logo.png
+  - image_path: /assets/images/section_cronicas.png
     alt: "fully responsive"
     title: "Lo que la ciencia se llevó"
     excerpt: "Aquí hablamos de científicos muertos (o no)."
     url: "https://cientificaserbias.github.io/blog/categorias/#lo-que-la-ciencia-se-llevó"
     btn_class: "btn--primary"
     btn_label: "Habla con los (no) muertos"
-  - image_path: /assets/images/logo.png
+  - image_path: /assets/images/section_cronicas.png
     alt: "fully responsive"
     title: "Crónica de un científico encerrado"
     excerpt: "Nuestro día a día, con sus luces y sombras."
