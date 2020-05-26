@@ -9,6 +9,9 @@ categories:
 published: true
 comments: true
 author_profile: true
+tags:
+  - Bienvenida
+  - Elementos químicos
 --- 
 
 Bienvenidos a nuestro pequeño blog de divulgación científica. Somos un grupo de amigos que hemos estudiado distintas carreras científicas y ahora nos estamos iniciando en la carrera investigadora. En particular, las disciplinas científicas que hemos estudiado los integrantes de este club son: Biología, Química, Biotecnología, Física y Bioquímica; aunque estamos abiertos a tener más miembros y disciplinas en el club. 
