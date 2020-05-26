@@ -82,7 +82,7 @@ div.ex2 {
   
 &nbsp;
 
-{% include feature_row %}
+{% include feature_row type="center" %}
 
 
 Todas las imágenes bonitas son obra de <a href="https://www.instagram.com/chir_ii/?hl=en" target="_blank">@Chir_ii</a>, los demás hacemos lo que podemos.
