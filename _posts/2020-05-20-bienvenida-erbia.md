@@ -6,9 +6,6 @@ header:
   og_image: /assets/images/posts/2020-05-20-bienvenida-erbia/header_erbio.jpg
 categories:
   - Lo que la ciencia se llevó
-tags:
-  - Bienvenida
-  - Elementos químicos
 published: true
 comments: true
 author_profile: true
