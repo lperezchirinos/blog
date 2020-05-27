@@ -1,7 +1,7 @@
 ---
 title: "Lo que la ciencia se llevó"
 header:
-  image: /assets/images/Cover.jpg
+  image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
 published: true
 comments: true
