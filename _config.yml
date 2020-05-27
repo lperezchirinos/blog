@@ -20,7 +20,7 @@ title                    : "El club de las científicas erbias"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "El club de las Científicas Erbias"
-description              : "El club de las científicas erbias descripción"
+description              : "Distintas ramas de la ciencia unidas para hacer un blog de divulgación."
 url                      : https://cientificaserbias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : /blog # the subpath of your site, e.g. "/blog"
 repository               : cientificaserbias/blog # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
