@@ -34,6 +34,8 @@ Después de esta pequeña historia ya sabéis qué es el erbio y a qué se debe 
 
 Podéis encontrar más información en [Sobre nosotros](https://cientificaserbias.github.io/blog/sobrenosotros/){:target="_blank"}
 
+**Todos los viernes** tendremos una nueva publicación. ¡No os perdáis la de este viernes!
+
 ¡Bienvenidos al club de las científicas erbias! 
 
      
