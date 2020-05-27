@@ -51,6 +51,6 @@ Podéis encontrar más información en [Sobre nosotros](https://cientificaserbia
 
 * En la Wikipedia podéis encontrar más información sobre las propiedades del erbio: [https://es.wikipedia.org/wiki/Erbio](https://es.wikipedia.org/wiki/Erbio){:target="_blank"}
 
-* Para conocer más sobre la historia del descubrimiento (inglés): [https://archive.org/details/discoveryoftheel002045mbp/page/n717/mode/2up](https://archive.org/details/discoveryoftheel002045mbp/page/n717/mode/2up){:target="_blank"}
+* Para conocer más sobre la historia del descubrimiento (inglés): [link](https://archive.org/details/discoveryoftheel002045mbp/page/n717/mode/2up){:target="_blank"}
 
-* Algunas aplicaciones y curiosidades del erbio (inglés): [https://archive.org/details/naturesbuildingb0000emsl/page/136](https://archive.org/details/naturesbuildingb0000emsl/page/136){:target="_blank"}
+* Algunas aplicaciones y curiosidades del erbio (inglés): [link](https://archive.org/details/naturesbuildingb0000emsl/page/136){:target="_blank"}
