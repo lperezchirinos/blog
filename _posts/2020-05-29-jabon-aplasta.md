@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/posts/2020-05-29-jabon-aplasta/JabonVSCorona.jpg
 categories:
   - Lo cotidiano es ciencia
-published: false
+published: true
 comments: true
 author_profile: true
 tags:
