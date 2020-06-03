@@ -3,10 +3,9 @@ title: "Viaje del SARS-CoV-2 por la célula"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-06-05-viaje-sars-cov-2/-------.jpg
 categories:
   - Viaje al centro de la ciencia
-published: false
+published: true
 comments: true
 author_profile: true
 tags:
