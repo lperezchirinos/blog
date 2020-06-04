@@ -56,12 +56,15 @@ A pesar de todo esto, cada virus es un mundo y cada uno tiene su propio sistema 
 **ARN**: ácido ribonucleico. Esta es la molécula intermedia necesaria para poder desencriptar la información que viene en el ADN para, posteriormente, producir las proteínas que se encargan de la mayor parte de procesos que tienen lugar en nuestras células. Sin embargo, en ciertos organismos, como en caso de los Coronavirus, este ARN es directamente el material genético que contiene toda la información. 
 **Glicoproteína**: como su propio nombre indica, es una proteína unida covalentemente a un azúcar.
 **Célula epitelial**: nosotros estamos compuestos por millones de células, y dependiendo de la función que tenga esa célula recibe nombres distintos. En este caso, las células epiteliales son las células de la piel y las células que forman los tejidos que recubren los órganos internos. 
-**Endocitosis**: este palabro no es más que un proceso por el cual las células introducen en su interior moléculas del exterior, rodeándolas con un trocito de su membrana. 
+**Endocitosis**: este palabro no es más que un proceso por el cual las células introducen en su interior moléculas del exterior, rodeándolas con un trocito de su membrana.</span>
+{: .notice--primary} 
+     
+
 ---
 **Para saber más**
 
 * Artículo interesantísimo que explica porqué este SARS-CoV-2 tiene una tasa infectiva tan elevada en comparación con el resto 
 de SARS-CoV, en Español: [ccu cgg cgg gca Las doce letras que cambiaron el mundo](https://elpais.com/elpais/2020/05/09/ciencia/1589059080_203445.html){:target="_blank"} Aquí describen otro mecanismo de entrada que se ha descrito para el SARS-CoV-2. Este mecanismo consiste en la fusión de ambas membranas, celular y viral, e introducción del material genético directamente en la célula hospedadora.
-* Si quieres saber información más técnica sobre la familia del coronavirus, en Inglés: [Coronavirinae](https://viralzone.expasy.org/785){:target="_blank"} charset="utf-8"></script></center>
+* Si quieres saber información más técnica sobre la familia del coronavirus, en Inglés: [Coronavirinae](https://viralzone.expasy.org/785){:target="_blank"}
 
 ---
