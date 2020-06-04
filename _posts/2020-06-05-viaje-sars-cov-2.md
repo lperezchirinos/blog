@@ -44,8 +44,6 @@ Tras un tiempo, miles de copias de virus salen de una sola célula, hasta que la
 Aún quedan muchas preguntas sin resolver con respecto al  SARS-CoV-2 y puede que todo dé un giro inesperado. De momento, hemos intentado plasmar una pequeña parte de lo poquito que se conoce hasta ahora de este virus, pero este tema seguirá avanzando en los próximos meses. 
  
 A pesar de todo esto, cada virus es un mundo y cada uno tiene su propio sistema de replicación en las células. Por ello, no podemos generalizar los mecanismos de replicación, pero todos siguen un mismo esquema general; introducción del material genético en la célula hospedadora, replicación del material genético, producción masiva de proteínas y glicoproteínas y por último, ensamblaje y salida al espacio extracelular conllevando la muerte de la célula hospedadora. Personalmente, me parece apasionante la capacidad que tienen los virus de que siendo un sistema tan, tan simple, consigan que un organismo muchísimo más complejo como lo es una célula humana, se pare a sus órdenes, y comience a ser una fábrica exprés de estos nano-robots.
-
-
 &nbsp;  
 &nbsp;  
 &nbsp;   
