@@ -50,10 +50,10 @@ A pesar de todo esto, cada virus es un mundo y cada uno tiene su propio sistema 
 
 <span style="font-size:1.5em">**Glosario**</span>
 &nbsp;   
-<span style="font-size:1.25em">**ADN**: ácido desoxiribonucleico. Material genético que se encuentra en el núcleo de las células y contiene toda la información necesaria para producir los distintos componentes de la célula. 
-**ARN**: ácido ribonucleico. Esta es la molécula intermedia necesaria para poder desencriptar la información que viene en el ADN para, posteriormente, producir las proteínas que se encargan de la mayor parte de procesos que tienen lugar en nuestras células. Sin embargo, en ciertos organismos, como en caso de los Coronavirus, este ARN es directamente el material genético que contiene toda la información. 
-**Glicoproteína**: como su propio nombre indica, es una proteína unida covalentemente a un azúcar.
-**Célula epitelial**: nosotros estamos compuestos por millones de células, y dependiendo de la función que tenga esa célula recibe nombres distintos. En este caso, las células epiteliales son las células de la piel y las células que forman los tejidos que recubren los órganos internos. 
+<span style="font-size:1.25em">**ADN**: ácido desoxiribonucleico. Material genético que se encuentra en el núcleo de las células y contiene toda la información necesaria para producir los distintos componentes de la célula.        
+**ARN**: ácido ribonucleico. Esta es la molécula intermedia necesaria para poder desencriptar la información que viene en el ADN para, posteriormente, producir las proteínas que se encargan de la mayor parte de procesos que tienen lugar en nuestras células. Sin embargo, en ciertos organismos, como en caso de los Coronavirus, este ARN es directamente el material genético que contiene toda la información.      
+**Glicoproteína**: como su propio nombre indica, es una proteína unida covalentemente a un azúcar.   
+**Célula epitelial**: nosotros estamos compuestos por millones de células, y dependiendo de la función que tenga esa célula recibe nombres distintos. En este caso, las células epiteliales son las células de la piel y las células que forman los tejidos que recubren los órganos internos.      
 **Endocitosis**: este palabro no es más que un proceso por el cual las células introducen en su interior moléculas del exterior, rodeándolas con un trocito de su membrana.</span>
 {: .notice--primary} 
      
