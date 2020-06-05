@@ -3,10 +3,10 @@ title: "Viaje del SARS-CoV-2 por la célula"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-06-05-viaje-sars-cov-2/Covid_SN.jpg
+  og_image: /assets/images/posts/2020-06-05-viaje-sars-cov-2/Covid_SN.jpeg
 categories:
   - Viaje al centro de la ciencia
-published: true
+published: false
 comments: true
 author_profile: true
 tags:
@@ -67,3 +67,4 @@ de SARS-CoV, en Español: [ccu cgg cgg gca Las doce letras que cambiaron el mund
 * Si quieres saber información más técnica sobre la familia del coronavirus, en Inglés: [Coronavirinae](https://viralzone.expasy.org/785){:target="_blank"}
 
 ---
+
