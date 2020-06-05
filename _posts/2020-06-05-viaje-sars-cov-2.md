@@ -3,6 +3,7 @@ title: "Viaje del SARS-CoV-2 por la célula"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
+  og_image: /assets/images/posts/2020-06-05-viaje-sars-cov-2/Covid_SN.jpg
 categories:
   - Viaje al centro de la ciencia
 published: true
@@ -61,7 +62,7 @@ A pesar de todo esto, cada virus es un mundo y cada uno tiene su propio sistema 
 ---
 **Para saber más**
 
-* Artículo interesantísimo que explica porqué este SARS-CoV-2 tiene una tasa infectiva tan elevada en comparación con el resto 
+* Artículo interesantísimo que explica por qué este SARS-CoV-2 tiene una tasa infectiva tan elevada en comparación con el resto 
 de SARS-CoV, en Español: [ccu cgg cgg gca Las doce letras que cambiaron el mundo](https://elpais.com/elpais/2020/05/09/ciencia/1589059080_203445.html){:target="_blank"} Aquí describen otro mecanismo de entrada que se ha descrito para el SARS-CoV-2. Este mecanismo consiste en la fusión de ambas membranas, celular y viral, e introducción del material genético directamente en la célula hospedadora.
 * Si quieres saber información más técnica sobre la familia del coronavirus, en Inglés: [Coronavirinae](https://viralzone.expasy.org/785){:target="_blank"}
 
