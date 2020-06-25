@@ -89,7 +89,7 @@ de la vida en el mundo de los hombres, y su mayor error fue llevárselo demasiad
 ---
 **Para saber más**
 
-* [Inserta nombre que quieres para el link](https://www.rtve.es/alacarta/videos/el-hombre-y-la-tierra/){:target="_blank"} Aquí describen otro mecanismo de entrada que se ha descrito para el SARS-CoV-2. Este mecanismo consiste en la fusión de ambas membranas, celular y viral, e introducción del material genético directamente en la célula hospedadora.
+* [Inserta nombre que quieres para el link](https://www.rtve.es/alacarta/videos/el-hombre-y-la-tierra/){:target="_blank"} Aquí están disponibles todos los episodios de la serie “El Hombre y la Tierra”.   
 * [Sociedad Española de Ornitología](https://www.seo.org/) Muestran fichas muy detalladas así como manuales de identificación de las aves de España y todos los proyectos en los que participan.
 * [World Wildlife Fund España](https://www.wwf.es/) ONG muy diversa con el objetivo principal de proteger y conservar la naturaleza tratando temas como alimentación, cambio climático, energías limpias, etc.
 
