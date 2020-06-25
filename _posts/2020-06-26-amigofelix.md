@@ -79,10 +79,9 @@ de la vida en el mundo de los hombres, y su mayor error fue llevárselo demasiad
 
 <span style="font-size:1.5em">**Glosario**</span>
 &nbsp;   
-<span style="font-size:1.25em">**ADN**:   
-**Especie cinegética**: actividad de caza con aves rapaces entrenadas, principalmente águilas y halcones.    
-**Etología**: actividad de caza con aves rapaces entrenadas, principalmente águilas y halcones.     
-**Cetrería**: nosotros estamos compuestos por millones de células, y dependiendo de la función que tenga esa célula recibe nombres distintos. En este caso, las células epiteliales son las células de la piel y las células que forman los tejidos que recubren los órganos internos.      
+<span style="font-size:1.25em">**Especie cinegética**: especie cuya captura mediante la caza o pesca está autorizada por la administración competente.  
+**Etología**: estudio del comportamiento animal en condiciones de libertad o cautividad.
+**Cetrería**: actividad de caza con aves rapaces entrenadas, principalmente águilas y halcones.            
 **Animal troquelado**: animal que en un periodo de aprendizaje, normalmente durante las primeras etapas de vida, es manipulado indebidamente, haciendo que se termine identificando o improntando con seres humanos.
 {: .notice--primary} 
      
@@ -90,8 +89,10 @@ de la vida en el mundo de los hombres, y su mayor error fue llevárselo demasiad
 ---
 **Para saber más**
 
-* Artículo interesantísimo que explica por qué este SARS-CoV-2 tiene una tasa infectiva tan elevada en comparación con el resto 
-de SARS-CoV, en Español: [ccu cgg cgg gca Las doce letras que cambiaron el mundo](https://elpais.com/elpais/2020/05/09/ciencia/1589059080_203445.html){:target="_blank"} Aquí describen otro mecanismo de entrada que se ha descrito para el SARS-CoV-2. Este mecanismo consiste en la fusión de ambas membranas, celular y viral, e introducción del material genético directamente en la célula hospedadora.
-* Si quieres saber información más técnica sobre la familia del coronavirus, en Inglés: [Coronavirinae](https://viralzone.expasy.org/785){:target="_blank"}
+* [Inserta nombre que quieres para el link](https://www.rtve.es/alacarta/videos/el-hombre-y-la-tierra/){:target="_blank"} Aquí describen otro mecanismo de entrada que se ha descrito para el SARS-CoV-2. Este mecanismo consiste en la fusión de ambas membranas, celular y viral, e introducción del material genético directamente en la célula hospedadora.
+* [Sociedad Española de Ornitología](https://www.seo.org/) Muestran fichas muy detalladas así como manuales de identificación de las aves de España y todos los proyectos en los que participan.
+* [World Wildlife Fund España](https://www.wwf.es/) ONG muy diversa con el objetivo principal de proteger y conservar la naturaleza tratando temas como alimentación, cambio climático, energías limpias, etc.
+
+{:target="_blank"}
 
 ---
